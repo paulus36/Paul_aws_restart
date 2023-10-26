@@ -1,1 +1,1 @@
-Hello from Paul!!! I'm AWS re/start student working on a new project.
+Hello from Paul!!! I'm AWS re/start student working on a python project.
